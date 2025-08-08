@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    text-align: start;
+    background-color: #1C1C1C;
+    color: white;
+    font-family: "Karla", sans-serif;
+}
+
+.marco {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+    border-radius: 8px;
+}
+
+h1 {
+    margin: 0px 40px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+span {
+    color: #34d36e;
+}
+
+p {
+    margin: 14px 40px 50px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+#main-btn {
+    margin: 0 40px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 12px;
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+    background: #10B981;
+    color: #ffffff;
+}
+
+.password-section {
+    margin: 40px auto;
+    background: #2F3E53;
+    width: 450px;
+    height: 2px;
+}
+
+.passwords {
+    display: flex;
+    justify-content: center;
+}
+
+#first-password {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    background: #2F3E53;
+    border-radius: 8px;
+    margin: 0 26px;
+    color: #13ed58;
+}
+
+#second-password {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    background: #2F3E53;
+    border-radius: 8px;
+    margin: 0 26px;
+    color: #13ed58;
+}
+
+.select-lenght {
+    padding-top: 20px;
+    text-align: center;
+    color: #fdfffe;
+    font-style: italic;
+    font-weight: 100;
+}
+
+button {
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-family: "Karla", sans-serif;
+    background: #30a077;
+    color: #ffffff;
+}
